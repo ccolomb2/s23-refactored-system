@@ -2,3 +2,7 @@
 
 ## edited directly in a browser in [github](https://github.com)
 
+## And in a VC Code editor
+
+with syntax highlighting!
+
